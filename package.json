@@ -1,0 +1,8 @@
+{
+  "name": "cryptocurrency-icons",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "generate": "rm -rf icons/* && node ./generate.js"
+  }
+}
